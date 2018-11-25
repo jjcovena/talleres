@@ -1,0 +1,43 @@
+padding - top (arriba)
+padding - right (derecha)
+padding - left (izquierda)
+padding - bottom (abajo)
+
+border - top (arriba)
+border - right (derecha)
+border - left (izquierda)
+border - bottom (abajo)
+
+margin - top (arriba)
+margin - right (derecha)
+margin - left (izquierda)
+margin - bottom (abajo)
+
+·············································································
+regla tipo class (para varias etiquetas)
+
+·Nombre de regla
+{
+color: purple;
+background-color: #d8da3d 
+}
+
+
+
+regla tipo ID (para cuando solo se desea para un elemento)
+
+# Nombre de regla
+{
+color: purple;
+background-color: #d8da3d 
+}
+
+
+padding 10px 10px 10px 10px
+        top right bottom left
+
+padding 10px 10px
+top, buttom  -- right left el mismo por bloques
+
+padding 10px
+para todos los lados

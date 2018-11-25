@@ -1,0 +1,49 @@
+
+#Regla1
+{
+    background-color: red;
+    color:#CCC;
+    font-weight:bold;
+    padding-left: 300px;
+    padding-top: 200px;
+    margin-top:15px;
+    border-color: yellow;
+    border-top:dashed;
+    border-bottom:dashed;
+    position: relative;
+    z-index: 1;
+}
+
+
+
+
+#Regla2
+{
+    background-color: blue;
+    color:#CCC;
+    font-weight:bold;
+    padding-left: 300px;
+    padding-top: 100px;
+    margin-top:15px;
+    border-color: yellow;
+    border-top:dashed;
+    border-bottom:dashed;
+    position: relative;
+    z-index: 2;
+}
+
+
+
+.Regla3
+{
+    background-color: yellow;
+    color:brown;
+    font-weight:bold;
+    padding-left: 300px;
+    margin-top:15px;
+    border-color: yellow;
+    border-top:dashed;
+    border-bottom:dashed;
+    position: relative;
+    z-index: 3;
+}
