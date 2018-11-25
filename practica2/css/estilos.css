@@ -1,0 +1,125 @@
+/* CSS Document */
+
+#tabla{
+	width:100%;
+	display:table;
+}
+
+#fila1 {
+	width:100%;
+	display:table-row;
+}
+
+#fila2{
+	width:100%;
+	display:table-row;
+}
+
+#f1c1{
+	width:33.3%;
+	display:table-cell;
+	background-color:#CC0;
+}
+
+#f1c2{
+	width:33.3%;
+	display:table-cell;
+	background-color:#6C6;
+}
+
+#f1c3{
+	width:233.3%;
+	display:table-cell;
+	background-color:#6C6;
+}
+
+#f2c1{
+	width:25%;
+	display:table-cell;
+	background-color:black;
+}
+#f2c2{
+	width:25%;
+	display:table-cell;
+	background-color:black;
+}
+
+#f2c3{
+	width:25%;
+	display:table-cell;
+	background-color:black;
+}
+
+#envoltura{
+	width:80%;
+	margin:0 auto;
+}
+
+a{
+	text-decoration:none;
+	color:#C60;
+}
+
+h2 {
+    text-align: center;
+	color:gray;
+    inear-gradient(90deg);
+}
+
+p {
+    text-align: center;
+	color:gray;
+}
+
+
+
+
+
+
+a:hover{
+	color:blue;
+	font-weight:bold;
+	font-family:Tahoma, Geneva, sans-serif;
+}
+
+ul{
+	list-style-type:none;
+	width:100%;
+}
+
+li{
+	display:inline-block;
+	width:20%;
+}
+
+#encabezado{
+	width:100%;
+	background-image:url(../img/auto.png);
+	height:250px;
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+body{
+	background-image:url(../img/uno.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+}
+
+img{
+	width: 100%;
+    
+}
+
+
+.pie{
+    
+    background-color: black;
+	text-align: center;
+    font-family:monospace;
+    font-size: 18px;
+    font-weight: bold;
+    color: chartreuse;
+    
+}
